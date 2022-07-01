@@ -4,6 +4,10 @@
 
 https://www.boel.co.jp/tips/vol107/
 
+## github remote repository initialize
+
+https://teratail.com/questions/219077
+
 ## Build Setup
 
 ```bash
